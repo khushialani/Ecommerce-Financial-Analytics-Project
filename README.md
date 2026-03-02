@@ -151,8 +151,3 @@ Automate pipeline for real-time analysis
 Khushi Alani
 B.Tech | Data Analytics & Machine Learning Enthusiast
 Focused on Financial Analytics & Business Intelligence
-## 🚀 Future Improvements
-
-- Build advanced churn prediction model (Logistic Regression / XGBoost)
-- Deploy interactive dashboard using Streamlit
-- Automate data pipeline for real-time analysis
